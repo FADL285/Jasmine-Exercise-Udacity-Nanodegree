@@ -1,14 +1,3 @@
-class Person {
-  name: string;
-
-  constructor(name: string) {
-    this.name = name;
-  }
-
-  print(): string {
-    return `Hello ${this.name}`;
-  }
+export default function square(number: number): number {
+  return number * number;
 }
-
-const person = new Person('Fadl');
-person.print();
