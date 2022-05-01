@@ -1,7 +1,13 @@
 # Jasmine-Exercise-Udacity-Nanodegree
 Create unit test using Jasmine Exercise | Backend Development with Node.js Nanodegree from Udacity
 
-# Instructions
+# Repo Structure
+
+- `main` branch ==> Has Base setup for TypeScript, Prettier and Eslint.
+- `jasmine` branch ==> Has Base setup for TypeScript, Prettier, Eslint and Jasmine.
+- `exercise` branch ==> Has Exercise solution.
+
+# Exercise Instructions
 
 Your task is to write at least one spec per function used on the `index.ts` file.
 
