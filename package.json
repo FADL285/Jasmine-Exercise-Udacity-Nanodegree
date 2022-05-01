@@ -1,0 +1,20 @@
+{
+  "name": "jasmine-exercise-udacity-nanodegree",
+  "version": "1.0.0",
+  "description": "Create unit test using Jasmine Exercise | Backend Development with Node.js Nanodegree from Udacity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FADL285/Jasmine-Exercise-Udacity-Nanodegree.git"
+  },
+  "keywords": [],
+  "author": "Mohamed Fadl <Mohamed.Fadl2852@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FADL285/Jasmine-Exercise-Udacity-Nanodegree/issues"
+  },
+  "homepage": "https://github.com/FADL285/Jasmine-Exercise-Udacity-Nanodegree#readme"
+}
