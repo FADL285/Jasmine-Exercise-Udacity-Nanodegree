@@ -32,3 +32,9 @@ describe('Testing the numbers module functions', () => {
     expect(numbers.multiply(5, 8)).toBe(40);
   });
 });
+
+describe('Testing the stings module functions', () => {
+  it('Should Capitalize a string', () => {
+    expect(strings.capitalize('mohamed fadl')).toEqual('Mohamed Fadl');
+  });
+});
