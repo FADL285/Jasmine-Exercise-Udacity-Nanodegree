@@ -22,3 +22,13 @@ describe('Testing the arrays module functions', () => {
     expect(arrays.cut3(wordArr)).not.toContain('rabbit');
   });
 });
+
+describe('Testing the numbers module functions', () => {
+  it('Should return the sum of 5, 28 return value greater than 22', () => {
+    expect(numbers.sum(5, 28)).toBeGreaterThan(30);
+  });
+
+  it('Should return the multiply of 5, 8 and return 40', () => {
+    expect(numbers.multiply(5, 8)).toBe(40);
+  });
+});
