@@ -1,5 +1,5 @@
 # Jasmine-Exercise-Udacity-Nanodegree
-Create unit test using Jasmine Exercise | Backend Development with Node.js Nanodegree from Udacity
+Create unit test using Jasmine Exercise | Full Stack JS NanoDegree from Udacity
 
 # Repo Structure
 
